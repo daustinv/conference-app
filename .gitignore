@@ -19,8 +19,7 @@ node_modules
 # Jest coverage folder
 /coverage
 
-# MacOS system files
-.DS_Store
+
 
 # Windows system files
 Thumbs.db
